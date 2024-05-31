@@ -1,0 +1,2 @@
+#Pull the docker image
+docker pull kunalb20/huggingface-model
